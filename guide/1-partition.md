@@ -11,7 +11,7 @@
   
 - Any TWRP For Guacamole and Hotdog
 
-- [Parted]
+- [Parted](https://github.com/fnm04-sh/woa-op7/releases/tag/parted)
 
 ### Notes
 > [!WARNING]  
