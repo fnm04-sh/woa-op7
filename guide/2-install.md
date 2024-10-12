@@ -105,4 +105,4 @@ adb reboot bootloader
 fastboot boot path\to\devicename-uefi.img
 ```
 
-## [Last step: Setting up dualboot](/guide/dualboot-selection.md)
+## [Last step: Setting up dualboot](/guide/3-dualboot.md)
