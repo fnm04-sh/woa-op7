@@ -5,13 +5,13 @@
 ## Installing Windows
 
 ### Prerequisites
-- [Renegade UEFI]
+- [Renegade UEFI](https://github.com/edk2-porting/edk2-msm/releases/tag/2301.1)
 
 - [Windows on ARM image](https://arkt-7.github.io/woawin/)
   
-- [Drivers](https://github.com/n00b69/woa-op7/releases/tag/Drivers)
+- [Drivers](https://github.com/fnm04-sh/woa-op7/releases/tag/Drivers)
 
-- [UEFI image](https://github.com/n00b69/woa-op7/releases/tag/UEFI)
+- [UEFI image](https://github.com/fnm04-sh/woa-op7/releases/tag/UEFI)
 
 ### Boot Renegade UEFI
 > Replace `path\to\renegade_uefi.img` with the actual path of the image
