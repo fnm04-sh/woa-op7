@@ -4,7 +4,7 @@
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woahelperchat)
 
 ## Сhoose your language
-**English** | [`Pусский`](README-ru.md)
+**English** | ~~[`Pусский`](README-ru.md)~~
 
 ## ⚠️ Warning
 We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~~workers~~ cowboys, dead pmics, dead ram, dead sim cards, dead display ics, dead cpus, any xiaomi shenanigans, exploding batteries, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
@@ -23,15 +23,15 @@ This project is in an early stage, all the files here have been contributed by o
 
 
 ## Miscellaneous
-- [Dualboot setup](guide/dualboot.md)
+- [Dualboot setup](guide/3-dualboot.md)
 
-- [Additional materials](guide/materials.md)
+- ~~[Additional materials](guide/materials.md)~~
 
-- [Update drivers](guide/update.md)
+- ~~[Update drivers](guide/update.md)~~
 
-- [Reinstall instructions](guide/reinstall.md)
+- ~~[Reinstall instructions](guide/reinstall.md)~~
 
-- [Uninstall instructions](guide/uninstall.md)
+- ~~[Uninstall instructions](guide/uninstall.md)~~
 
 
 ## Contributors
