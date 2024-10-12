@@ -183,4 +183,4 @@ quit
 #### Check if Android still starts
 - Just restart the phone, and see if Android still works
 
-## [Next step: Rooting your phone](/guide/2-root.md)
+## [Next step: Installing Windows](/guide/2-install.md)
