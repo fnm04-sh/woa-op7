@@ -25,7 +25,7 @@ This project is in an early stage, all the files here have been contributed by o
 ## Miscellaneous
 - [Dualboot setup](guide/3-dualboot.md)
 
-- ~~[Additional materials](guide/materials.md)~~
+- [Additional materials](guide/materials.md)
 
 - ~~[Update drivers](guide/update.md)~~
 
