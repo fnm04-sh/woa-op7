@@ -12,16 +12,4 @@ There are three methods to install Windows:
 | - Quickest                                                                                                     | - Takes a little bit of time                                                                                   | - Longest                                                                                                      |
 | - Simple                                                                                                       | - Doable for most people                                                                                       | - Complicated for inexperienced user, and can lead to mistakes breaking the device if done incorrectly         |
 | - Lack of options in regards to OS version, language, edition, storage allocation | - Customizable in regards to OS version, language, edition, storage allocation | - Highly customizable in regards to OS version, language, edition, storage allocation |
-| [Comming Soon!](/InstallWindows-en/InstallWindows.md) | [Coming Soon!](/InstallWindows-en/InstallWindows.md) | [Manual Guide](/InstallWindows-en/InstallWindowsManually.md) |
-
----
-
-_**© 2020-2024 The Duo WOA Authors**_
-
-_Snapdragon is a registered trademark of Qualcomm Incorporated. Microsoft, the Microsoft Corporate Logo, Windows, Surface, Surface Duo, Windows Hello, Continuum, Hyper-V, and DirectX are registered trademarks of Microsoft Corporation in the United States. Android is a registered trademark of Google LLC. Miracast is a registered trademark of the Wi-Fi Alliance. Other binaries may be copyright Qualcomm Incorporated, Microsoft Surface and Xiaomi Inc._
-
-_**Limited emergency calling**_
-
-_Running Windows on your Xiaomi Mi 9 is not a replacement for a proper phone operating system and does not have emergency calling capabilities._
-
-_**Hello from Seattle (US), France, Italy.**_
+| [Comming Soon!](/InstallWindows-en/InstallWindows.md) | [Coming Soon!](/README.md) | [Manual Guide](guide/1-partition.md) |
