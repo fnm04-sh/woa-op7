@@ -5,7 +5,7 @@
 
 There are three methods to install Windows:
 
-| **Comming Soon: Flash a Full Flash Update (FFU) file**                                                                                                                        | **Commin Soon: Install Windows Manually yourself**                                                                          |
+| **Comming Soon: Flash a Full Flash Update (FFU) file**                                                                                                                        | **Commin Soon: Install Windows Manually yourself**                                                                      
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | <a href="/InstallWindows-en/FlashingFFU.md"><img src="https://github.com/WOA-Project/SurfaceDuo-Guides/assets/3755345/c4fd0391-210a-4c31-8f03-7db2e634430c" width="200"></a> | <a href="/InstallWindows-en/InstallWindowsManually.md"><img src="https://github.com/WOA-Project/SurfaceDuo-Guides/assets/3755345/9791796b-406b-4f0d-8aad-20fff18741da" width="200"></a> |
 | - Easiest                                                                                                      | - Easy                                                                                                         | - Hardest                                                                                                      |
