@@ -17,7 +17,7 @@
 - [x] GPU
 - [x] SMS
 - [x] Microphone
-- [x] Display Port
+- [x] Display Port ```Request Dock```
 - [x] Touchscreen 
 - [x] UFS
 - [x] USB
