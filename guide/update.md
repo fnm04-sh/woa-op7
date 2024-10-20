@@ -7,6 +7,15 @@
   
 - [Drivers](https://github.com/fnm04-sh/woa-op7/releases/tag/Drivers)
 
+### Boot Renegade UEFI
+> Replace `path\to\renegade_uefi.img` with the actual path of the image
+```cmd
+fastboot boot path\to\renegade_uefi.img
+```
+
+### Entering mass storage mode
+- In Renegade navigate by volume buttons to **UEFI Boot Menu** and select **USB Attached SCSI (UAS) Storage** and boot
+
 ### Update Drivers
 > [!Note]
 > This process will take +- 20 minutes. Do not worry, this is normal.
