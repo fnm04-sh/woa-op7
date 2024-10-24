@@ -15,7 +15,7 @@
 
 
 ## Ознакомление
-- ~~[Cтатус проекта](guide/status-ru.md)~~
+- [Cтатус проекта](guide/status-ru.md)
 
 - ~~[Инструкция установки](guide/install_variant-ru.md)~~
 
