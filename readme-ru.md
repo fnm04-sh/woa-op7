@@ -25,7 +25,7 @@
 ## Прочее
 - ~~[Настройка Dualboot](guide/3-dualboot-ru.md)~~
 
-- ~~[Другие материялы](guide/materials-ru.md)~~
+- [Другие материялы](guide/materials-ru.md)
 
 - ~~[Обновление драйверов](guide/update-ru.md)~~
 
