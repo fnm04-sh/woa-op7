@@ -29,7 +29,7 @@ adb push path\to\modemst2.bin /cache/ & adb shell dd if=/cache/modemst2.bin of=/
 - Reboot your device and check if LTE works.
 > [!Note]
 > If it still does not work, you will have to do some additional steps;
-- Download the [stock rom for your device](https://xmfirmwareupdater.com/miui/polaris/)
+- Download the [stock rom for your device](/guide/uninstall.md)
 - Open it, look for a file called **modem.img** and extract it.
 - Boot into fastboot mode (`adb reboot bootloader`).
 - Flash this **modem.img** with the below command, replacing `path\to\modem.img` with the actual path of the image
