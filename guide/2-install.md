@@ -38,7 +38,7 @@ sel dis $
 
 #### Select **Windows partition**
 ```diskpart
-sel par 21
+sel par 20
 ``` 
 
 #### Formating this partition
@@ -52,11 +52,11 @@ assign letter="S"
 ```
 #### Select **ESP Partition**
 ```diskpart
-sel par 20
+sel par 21
 ``` 
 #### Formating this partition
 ```diskpart
-format quick fs=fat32 label="System"
+format quick fs=ntfs label="Windows"
 ``` 
 #### Assign the letter W
 ```diskpart
