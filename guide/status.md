@@ -4,30 +4,26 @@
 
 ## Project Status
 
-#### Features
-- [X] Audio (speakers)
-- [X] Battery status
-- [x] Bluetooth
-- [x] Brightness 
-- [ ] Camera
-- [x] LTE
-- [ ] Charging ```Currently disabled due to random BSoD```
-- [x] Display
-- [ ] Flashlight
-- [x] GPU
-- [x] SMS
-- [x] Microphone
-- [x] Display Port ```Request Dock```
-- [x] Touchscreen 
-- [x] UFS
-- [x] USB
-- [x] Wi-Fi
-
-#### Sensors
-- [ ] Accelerometer
-- [ ] Fingerprint
-- [X] GPS
-- [ ] Gyroscope
-- [ ] Light sensor
-- [ ] Proximity
-- [X] NFC ```Only guacamole```
+| Feature                | Notes                                           | Status         |
+|------------------------|-------------------------------------------------|----------------|
+| ⌨️ Side buttons        |                                                 | ✅            |
+| ♋ Cellular Calls      |                                                 | ❌            |
+| ♋ Cellular Data       |                                                 | ✅            |
+| ♋ Cellular Texts      |                                                 | ✅            |
+| ♋ Wifi                |                                                 | ✅            |
+| 📦 UFS                 |                                                 | ✅            |
+| 🔵 Bluetooth           |                                                 | ✅            |
+| 🎆 GPU                 |                                                 | ✅            |
+| 🔋 Battery             |                                                 | ✅            |
+| 📌 GPS                 |                                                 | ✅            |
+| 🪵 USB                 |                                                 | ✅            |
+| 🔊 Audio               |                                                 | ✅            |
+| 🧭 Sensor              |                                                 | ❌            |
+| 👆 Touch               |                                                 | ✅            |
+| 🔌 Charge              |                                                 | ❌            |
+| 📳 Vibration motor     |                                                 | ❌            |
+| 🔦 Flashlight          |                                                 | ❌            |
+| 📸 Camera Flash        |                                                 | ❌            |
+| 🏷️ NFC                 | Only OnePlus 7 Pro                              | ✅            |
+| 📸 Camera              |                                                 | ❌            |
+| 🧬 Fingerprint scanner |                                                 | ❌            |
